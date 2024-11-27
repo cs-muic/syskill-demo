@@ -67,7 +67,7 @@ void resetPerson(struct person_t *person) {
 
 int main() {
     struct person_t somePerson;
-    Person somePerson;
+    //Person somePerson;
 
     printf("%lu\n", sizeof(struct person_t));
     //printf("%d\n", MAX_STRLEN);
